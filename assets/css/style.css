@@ -5,3 +5,10 @@ section, .row {
     background-position: 50% 50%;
     background-size:cover;
 }
+body{
+    text-align: center;
+}
+.jumbotron{
+    background-color:rgba(0, 0, 0, 0.8);
+    color:#fff;
+}
